@@ -5,7 +5,7 @@ let nota2 = 8.5
 let media = (nota1 + nota2) / 2
 console.log(media)
 
-/* >> vERIFICAR SE O ALUNO FOI APROVADO << */
+/* >> VERIFICAR SE O ALUNO FOI APROVADO << */
 //se a média for maior ou igual a 6, aluno está aprovado
 if(media >= 6) {
     console.log('APROVADO')
